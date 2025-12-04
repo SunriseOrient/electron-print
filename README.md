@@ -1,6 +1,6 @@
 # electron-print
 
-Electron打印功能扩展，UI仿照Edge
+Electron 打印功能扩展，UI 仿照 Edge
 
 #### 开发环境
 - Node：14.21.3
